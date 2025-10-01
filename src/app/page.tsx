@@ -34,7 +34,7 @@ export default function Home() {
           </div>
           <DialogFooter>
             <DialogClose asChild>
-              <Button variant="outline">Cancel</Button>
+              <Button variant="outline">Cancelar</Button>
             </DialogClose>
             <Button type="submit">Save changes</Button>
           </DialogFooter>
